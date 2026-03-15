@@ -18,7 +18,7 @@
 
 ## 📌 Goals
 
-* Become a strong software developer
+* Become a strong AI Engineer
 * Build useful and meaningful projects
 * Contribute to open‑source
 
