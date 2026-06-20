@@ -3,11 +3,11 @@
 
 ## 🚀 About Me
 
-* 🎓 BTech Student
-* 💻 Learning programming with Python
-* 🧠 Interested in algorithms, logic, and how computers work
-* 📚 Currently improving problem‑solving skills
-* 🌱 Building small projects while learning
+* BTech Student
+* Learning programming with Python
+* Interested in algorithms, logic, and how computers work
+* Currently improving problem‑solving skills
+* Building small projects while learning
 
 ## 🛠️ Skills I'm Learning
 
