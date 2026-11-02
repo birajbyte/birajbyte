@@ -1,7 +1,7 @@
 
-# Hi there 👋 I'm Biraj
+# Hi there  I'm Biraj
 
-## 🚀 About Me
+##  About Me
 
 * BTech Student
 * Learning programming with Python
@@ -9,30 +9,30 @@
 * Currently improving problem‑solving skills
 * Building small projects while learning
 
-## 🛠️ Skills I'm Learning
+##  Skills I'm Learning
 
 * Python
 * Data Structures & Algorithms
 * Problem Solving
 * Git & GitHub
 
-## 📌 Goals
+##  Goals
 
 * Become a strong AI Engineer
 * Build useful and meaningful projects
 * Contribute to open‑source
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 *(Stats will appear automatically once you start committing projects)*
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 * GitHub: [https://github.com/birajbyte](https://github.com/birajbyte)
 
 ---
 
-⭐ "Learning a little every day to become better than yesterday."
+ "Learning a little every day to become better than yesterday."
 
 
 <!--
